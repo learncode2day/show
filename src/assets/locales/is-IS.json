@@ -271,6 +271,7 @@
       "quality": {
         "automaticLabel": "Sjálfkrafa gæði",
         "hint": "Þú getur reynt að <0>skipta um heimild</0>til að fá öðruvísi gæða valkosti.",
+        "iosNoQuality": "Vegna takmörkum á Apple tækjum er ekki hægt að breyta um gæði á iOS með þessari heimild. Þú getur reynt að <0>breyta í aðra heimild</0> til að fá mismunandi gæðastillingar.",
         "title": "Gæði"
       },
       "settings": {
