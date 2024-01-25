@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "Ahoy there! \"movie-web\" be a fine vessel on the digital seas, a web application scourin' the vast internet for streams. The crew be settin' their sights on a mostly minimalistic approach to enjoyin' the booty of entertainment. Arrr!",
+    "description": "Ahoy there! \"WatchTV\" be a fine vessel on the digital seas, a web application scourin' the vast internet for streams. The crew be settin' their sights on a mostly minimalistic approach to enjoyin' the booty of entertainment. Arrr!",
     "faqTitle": "Common queries",
     "q1": {
-      "body": "Arrr! \"movie-web\" be a noble ship that don't harbor any content itself. When ye click to set yer eyes on a treasure, the application sets sail across the internet, scourin' the vast seas for the chosen media. Check the loading screen and the 'video sources' tab to spy on which source be providin' the entertainment. No media be uploaded by \"movie-web\" — it be all through this searchin' mechanism, savvy?",
+      "body": "Arrr! \"WatchTV\" be a noble ship that don't harbor any content itself. When ye click to set yer eyes on a treasure, the application sets sail across the internet, scourin' the vast seas for the chosen media. Check the loading screen and the 'video sources' tab to spy on which source be providin' the entertainment. No media be uploaded by \"WatchTV\" — it be all through this searchin' mechanism, savvy?",
       "title": "From which cove does the content emerge, me heartie?"
     },
     "q2": {
-      "body": "Avast, ye landlubber! Be warned, ye can't be requestin' a show or movie on \"movie-web,\" for it don't manage any content. All the booty ye set yer eyes on be viewed through sources sailin' the internet. The ship merely be a vessel, not a keeper of the treasures. Navigate wisely, me heartie!",
+      "body": "Avast, ye landlubber! Be warned, ye can't be requestin' a show or movie on \"WatchTV,\" for it don't manage any content. All the booty ye set yer eyes on be viewed through sources sailin' the internet. The ship merely be a vessel, not a keeper of the treasures. Navigate wisely, me heartie!",
       "title": "Where be I able to make a hearty request for a show or movie?"
     },
     "q3": {
       "body": "Arrr, set yer sights on this, me matey! Our search results be fueled by The Movie Database (TMDB), showin' the way regardless of whether our sources in the vast digital seas actually bear the coveted content. It be a guide, not a promise of a sure find. Navigate the waters wisely, for the winds of the internet can be fickle!",
       "title": "Why be the search results unveilin' the show or movie, yet I can't set sail to watch it?"
     },
-    "title": "The tales of \"movie-web\""
+    "title": "The tales of \"WatchTV\""
   },
   "actions": {
     "copied": "Copied",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer",
-      "disclaimerText": "movie-web does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. movie-web be not responsible for any media files shown by the video providers."
+      "disclaimerText": "WatchTV does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. WatchTV be not responsible for any media files shown by the video providers."
     },
     "links": {
       "discord": "Discord",
@@ -90,12 +90,12 @@
     "tagline": "Watch yer favorite shows and movies with this open source streaming ship."
   },
   "global": {
-    "name": "movie-web",
+    "name": "WatchTV",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - WatchTV",
       "register": "Forge yer account, matey!",
       "settings": "Settings"
     }
@@ -175,7 +175,7 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Downloads be taken directly from the provider. movie-web does not have control over how the downloads be provided.",
+        "disclaimer": "Downloads be taken directly from the provider. WatchTV does not have control over how the downloads be provided.",
         "downloadVideo": "Download film",
         "onAndroid": {
           "1": "To download on Android, <bold>tap and hold</bold> on the film, then select <bold>save</bold>.",
@@ -249,7 +249,7 @@
       "failed": {
         "badge": "Failed",
         "homeButton": "Go home port",
-        "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+        "text": "Oh, me apologies, sweetie! The itty-bitty WatchTV did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle WatchTV ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
         "title": "Failed to load meta data"
       },
       "notFound": {
@@ -273,7 +273,7 @@
         "errorNotSupported": "The associated resource or media provider object has been found to be unsuitable."
       },
       "homeButton": "Go home port",
-      "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+      "text": "Oh, me apologies, sweetie! The itty-bitty WatchTV did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle WatchTV ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
       "title": "Whoops, it broke!"
     },
     "scraping": {
@@ -285,7 +285,7 @@
       "notFound": {
         "badge": "Not found",
         "homeButton": "Go home port",
-        "text": "Oh, me apologies, sweetie! The itty-bitty movie-web did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle movie-web ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
+        "text": "Oh, me apologies, sweetie! The itty-bitty WatchTV did its utmost bestest, but alas, no wucky videos to be spotted anywhere (´⊙ω⊙`) Please don't be angwy, wittle WatchTV ish twying so hard. Can ye find it in yer heart to forgive? UwU 💖",
         "title": "Goo goo gaa gaa"
       }
     },
