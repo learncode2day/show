@@ -87,7 +87,6 @@ export const locales = {
   pa,
   ro,
   fi,
-  nv,
 };
 
 export type Locales = keyof typeof locales;
