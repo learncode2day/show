@@ -167,32 +167,6 @@
     "title": "Non atopei a páxona que estabas a buscar"
   },
   "onboarding": {
-    "defaultConfirm": {
-      "cancel": "Cancelar",
-      "confirm": "Usar configuración por defecto",
-      "description": "A configuración por defecto non ten a mellor calidade e pode ser moi lenta.",
-      "title": "Estás seguro?"
-    },
-    "extension": {
-      "back": "Volver atrás",
-      "explainer": "Usando a extensión de navegador, podes obter os mellores streams á mellor calidade. Cunha simple instalación.",
-      "explainerIos": "Por desgraza, a extensión de navegador non é soportada en iOS. Pulsa <bold>volver atrás</bold> para escoller outra opción.",
-      "extensionHelp": "Se instalaches a extensión pero non é detectada, <bold>abre a extensión dende o menú de extensións do navegador</bold> e sigue os pasos na pantalla.",
-      "linkChrome": "Instalar extensión de Chrome",
-      "linkFirefox": "Instalar extensión de Firefox",
-      "notDetecting": "Instalada en Chrome, pero o sitio web non a está a detectar? Proba recargando a páxina!",
-      "notDetectingAction": "Recargar a páxina",
-      "status": {
-        "disallowed": "A extensión non está habilitada para esta páxina",
-        "disallowedAction": "Activar extensión",
-        "failed": "Error ao solicitar estado",
-        "loading": "Esperando a que instales a extensión",
-        "outdated": "A versión da extensión é moi vella",
-        "success": "A extensión funciona como se esperaba!"
-      },
-      "submit": "Continuar",
-      "title": "Vamos a empezar coa extensión"
-    },
     "proxy": {
       "back": "Vover atrás",
       "explainer": "Có método do proxy, podes obter streams de boa calidade creando un proxy hosteado por ti mesmo.",
@@ -470,8 +444,25 @@
         "urlLabel": "Servidor personalizado URL"
       },
       "setup": {
+        "doSetup": "Configurar",
         "errorStatus": {
+          "description": "Parece que hay un ou varios puntos que precisan da tua atención.",
           "title": "Hai algo que require da túa atención"
+        },
+        "itemError": "Hai un erro nesta configuración. Volve atrás para solucionalo.",
+        "items": {
+          "default": "Configuración por defecto",
+          "extension": "Extensión",
+          "proxy": "Proxy personalizado"
+        },
+        "redoSetup": "Retroceder na configuración",
+        "successStatus": {
+          "description": "Todo está no seu sitio para que podas empezar a ver os teus contidos favoritos.",
+          "title": "Todo está configurado!"
+        },
+        "unsetStatus": {
+          "description": "Por favor, preme no botón para empezar o proceso de configuración.",
+          "title": "Non empezaches ningunha configuración"
         }
       },
       "title": "Conexións",
