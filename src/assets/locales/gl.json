@@ -226,7 +226,7 @@
           "title": "Proxy personalizado"
         }
       },
-      "title": "Vamos a empezar coa configuración de movie-web"
+      "title": "Vamos a empezar coa configuración de WatchTV"
     }
   },
   "overlays": {
@@ -470,25 +470,8 @@
         "urlLabel": "Servidor personalizado URL"
       },
       "setup": {
-        "doSetup": "Configurar",
         "errorStatus": {
-          "description": "Parece que hay un ou varios puntos que precisan da tua atención.",
           "title": "Hai algo que require da túa atención"
-        },
-        "itemError": "Hai un erro nesta configuración. Volve atrás para solucionalo.",
-        "items": {
-          "default": "Configuración por defecto",
-          "extension": "Extensión",
-          "proxy": "Proxy personalizado"
-        },
-        "redoSetup": "Retroceder na configuración",
-        "successStatus": {
-          "description": "Todo está no seu sitio para que podas empezar a ver os teus contidos favoritos.",
-          "title": "Todo está configurado!"
-        },
-        "unsetStatus": {
-          "description": "Por favor, preme no botón para empezar o proceso de configuración.",
-          "title": "Non empezaches ningunha configuración"
         }
       },
       "title": "Conexións",
