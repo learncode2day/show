@@ -67,8 +67,8 @@ export default defineConfig(({ mode }) => {
           "safari-pinned-tab.svg",
         ],
         manifest: {
-          name: "movie-web",
-          short_name: "movie-web",
+          name: "WatchTV",
+          short_name: "WatchTV",
           description: "The place for your favourite movies & shows",
           theme_color: "#120f1d",
           background_color: "#120f1d",
